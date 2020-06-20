@@ -1,0 +1,7 @@
+{
+  "name": "selfcare-app",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
